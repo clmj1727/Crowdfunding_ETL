@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc88"
+  },
+  "subcategory_id": "subcat1",
+  "subcategory": "food trucks"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc89"
+  },
+  "subcategory_id": "subcat2",
+  "subcategory": "rock"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc8a"
+  },
+  "subcategory_id": "subcat3",
+  "subcategory": "web"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc8b"
+  },
+  "subcategory_id": "subcat4",
+  "subcategory": "plays"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc8c"
+  },
+  "subcategory_id": "subcat5",
+  "subcategory": "documentary"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc8d"
+  },
+  "subcategory_id": "subcat6",
+  "subcategory": "electric music"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc8e"
+  },
+  "subcategory_id": "subcat7",
+  "subcategory": "drama"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc8f"
+  },
+  "subcategory_id": "subcat8",
+  "subcategory": "indie rock"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc90"
+  },
+  "subcategory_id": "subcat9",
+  "subcategory": "wearables"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc91"
+  },
+  "subcategory_id": "subcat10",
+  "subcategory": "nonfiction"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc92"
+  },
+  "subcategory_id": "subcat11",
+  "subcategory": "animation"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc93"
+  },
+  "subcategory_id": "subcat12",
+  "subcategory": "video games"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc94"
+  },
+  "subcategory_id": "subcat13",
+  "subcategory": "shorts"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc95"
+  },
+  "subcategory_id": "subcat14",
+  "subcategory": "fiction"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc96"
+  },
+  "subcategory_id": "subcat15",
+  "subcategory": "photography books"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc97"
+  },
+  "subcategory_id": "subcat16",
+  "subcategory": "radio & podcasts"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc98"
+  },
+  "subcategory_id": "subcat17",
+  "subcategory": "metal"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc99"
+  },
+  "subcategory_id": "subcat18",
+  "subcategory": "jazz"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc9a"
+  },
+  "subcategory_id": "subcat19",
+  "subcategory": "translations"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc9b"
+  },
+  "subcategory_id": "subcat20",
+  "subcategory": "television"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc9c"
+  },
+  "subcategory_id": "subcat21",
+  "subcategory": "mobile games"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc9d"
+  },
+  "subcategory_id": "subcat22",
+  "subcategory": "world music"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc9e"
+  },
+  "subcategory_id": "subcat23",
+  "subcategory": "science fiction"
+},
+{
+  "_id": {
+    "$oid": "6789a8c1823a1771cac6bc9f"
+  },
+  "subcategory_id": "subcat24",
+  "subcategory": "audio"
+}]

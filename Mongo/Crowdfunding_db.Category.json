@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca0"
+  },
+  "category_id": "cat1",
+  "category": "food"
+},
+{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca1"
+  },
+  "category_id": "cat2",
+  "category": "music"
+},
+{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca2"
+  },
+  "category_id": "cat3",
+  "category": "technology"
+},
+{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca3"
+  },
+  "category_id": "cat4",
+  "category": "theater"
+},
+{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca4"
+  },
+  "category_id": "cat5",
+  "category": "film & video"
+},
+{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca5"
+  },
+  "category_id": "cat6",
+  "category": "publishing"
+},
+{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca6"
+  },
+  "category_id": "cat7",
+  "category": "games"
+},
+{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca7"
+  },
+  "category_id": "cat8",
+  "category": "photography"
+},
+{
+  "_id": {
+    "$oid": "6789a9c2823a1771cac6bca8"
+  },
+  "category_id": "cat9",
+  "category": "journalism"
+}]
